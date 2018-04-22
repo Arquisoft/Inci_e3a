@@ -1,4 +1,4 @@
-# Sistema informático de gestión de incidencias
+# Sistema de gestión de incidencias E3A
 ## Módulos
 | Módulo | | | | 
 |---------------------|---|---|---|
