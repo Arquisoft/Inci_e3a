@@ -5,7 +5,8 @@ Este sistema de gestión de incidencias está formado por cuatro módulos: Loade
 ## Índice
 
 - [Módulos de sistema](#módulos)
-- [Descripción del sistema](#descripción_del_sistema)
+- [Descripción del sistema](#descripción-del-sistema)
+- [Despliegue](#despliegue)
 - [Autores](#autores)
  
  
