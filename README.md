@@ -52,6 +52,19 @@ http://18.237.112.43:8091 --> Agents
 
 http://54.212.241.57:8081 --> InciDashBoard
 
+## Datos de Usuario para acceso a las aplicaciones:
+## InciManager:
+	- Usuario: Agente1/Agente2/Agente3/Agente4/Agente5/Agente6
+	- Contraseña: 123456
+	- Kind: person
+			*El envío de incidencias por parte de los sensores es automático.
+
+## InciDashBoard:
+	- Usuario:
+		-  Operario: Id1, Id2, Id3
+		-  Administrador: Id4
+		-  Analista: Id5
+	- Contraseña: 123456
 
 ### Autores
 - Álvaro Cabrero Barros (@espiguinho)
