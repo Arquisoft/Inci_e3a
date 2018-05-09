@@ -47,7 +47,9 @@ En las máquinas mencionadas se alojan los módulos de las siguiente forma:
 
 ## Para conectarse a los diferentes módulos se utilizan estos enlaces
 http://18.237.112.43:8090 --> InciManager
+
 http://18.237.112.43:8091 --> Agents
+
 http://54.212.241.57:8081 --> InciDashBoard
 
 
